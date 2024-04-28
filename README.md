@@ -6,7 +6,7 @@ I'm Mohammad Imaran, a Computational Scientist currently working at the Science 
 
 - 🔭 I’m currently working on CFD problems using OpenFOAM.
 - 👯 I’m looking to collaborate on solving extreme scale computing problems using CFD, DEM, and MD techniques.
-- 💬 Ask me about LAMMPS, Pharmaceutical process modelling.
+- 💬 Ask me about LAMMPS, DEM modelling, and Pharmaceutical process modelling.
 - 📫 How to reach me: [imaran.mohammad@outlook.com](mailto:imaran.mohammad@outlook.com)
 
 For more, feel free to check out my [portfolio](https://drimaran.com/)!
