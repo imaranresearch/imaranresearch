@@ -2,14 +2,15 @@
 
 I'm Mohammad Imaran, a Computational Scientist currently working at the Science and Technology Facilities Council (STFC), which is part of UK Research and Innovation. I am broadly interested in high-performance computing, computational modelling, and computational tool development.
 
-## About Me 📖
+## <img src="https://via.placeholder.com/15/007bff/000000?text=+" /> About Me 📖
 
 - 🔭 I’m currently working on CFD problems using OpenFOAM.
 - 👯 I’m looking to collaborate on solving extreme scale computing problems using CFD, DEM, and MD techniques.
-- 💬 Ask me about LAMMPS, DEM modelling, and Pharmaceutical process modelling.
+- 💬 Ask me about LAMMPS, Pharmaceutical process modelling.
 - 📫 How to reach me: [imaran.mohammad@outlook.com](mailto:imaran.mohammad@outlook.com)
 
 For more, feel free to check out my [portfolio](https://drimaran.com/)!
+
 
 ## Skills and Expertise 🛠️
 
