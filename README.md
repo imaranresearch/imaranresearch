@@ -20,7 +20,7 @@ For more, feel free to check out my [portfolio](https://drimaran.com/)!
 
 ## ![Let's Connect!](https://img.shields.io/badge/Let's%20Connect!-_-yellowgreen) 🌐
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imaranmd/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imaranmd/)
 
 
 ---
