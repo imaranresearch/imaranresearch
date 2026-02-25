@@ -26,6 +26,6 @@ For more, feel free to check out my [portfolio](https://drimaran.com/)!
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaranresearch&show_icons=true&theme=radical)
-# ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaranresearch&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaranresearch&layout=compact&theme=radical)
 
 
