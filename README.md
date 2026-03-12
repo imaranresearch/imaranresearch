@@ -9,7 +9,6 @@ I'm Mohammad Imaran, a Computational Scientist currently working at the Science 
 - 💬 Ask me about LAMMPS, process modelling.
 - 📫 How to reach me: [imaran.mohammad@outlook.com](mailto:imaran.mohammad@outlook.com)
 
-For more, feel free to check out my [portfolio](https://drimaran.com/)!
 
 
 ## ![Skills and Expertise](https://img.shields.io/badge/Skills%20and%20Expertise-_-green) 🛠️
